@@ -1,1 +1,4 @@
-git clone https://github.com/Jeannfreitas/nodeJS-mysql.git
+## Projeto Node.js com MySQL
+
+Este é um projeto Node.js simples que utiliza um banco de dados MySQL para armazenar e recuperar dados.
+
